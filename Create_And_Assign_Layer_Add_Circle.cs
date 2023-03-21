@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 //
 namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 {
-    internal class Create_And_Assign_Layer_Add_Circle
+    public class Create_And_Assign_Layer_Add_Circle
     {
-        [CommandMethod("CreateAndAssignALayer")]
+        [CommandMethod("Create_And_Assign_A_Layer")]
 
         public static void CreateAndAssignALayer()
 

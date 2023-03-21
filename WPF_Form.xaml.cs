@@ -15,6 +15,8 @@ using System.Windows.Shapes;
 
 namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 {
+    // дата создания 21-03-2023 время создания с 8-20  до ...... текущее время 11-53
+    // Атор Фишман Денис Борисович 
     /// <summary>
     /// Логика взаимодействия для WPF_Form.xaml
     /// </summary>

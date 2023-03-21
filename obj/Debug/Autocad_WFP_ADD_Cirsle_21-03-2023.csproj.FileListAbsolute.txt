@@ -1,7 +1,3 @@
-C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023.csproj.AssemblyReference.cache
-C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\WPF_Form.g.cs
-C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023_MarkupCompile.cache
-C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023_MarkupCompile.lref
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\bin\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023.dll
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\bin\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023.pdb
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\bin\Debug\accoremgd.dll
@@ -24,6 +20,10 @@ C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\bin\
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\bin\Debug\ru-RU\AdWindows.resources.dll
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\bin\Debug\ru-RU\AcMr.resources.dll
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\bin\Debug\ru-RU\AcWindows.resources.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\WPF_Form.g.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023_MarkupCompile.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023_MarkupCompile.lref
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\WPF_Form.baml
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023.g.resources
 C:\Users\Fishman.DB.CORP\Documents\GitHub\Autocad_WFP_ADD_Cirsle_21-03-2023\obj\Debug\Autocad_WFP_ADD_Cirsle_21-03-2023.csproj.CoreCompileInputs.cache
