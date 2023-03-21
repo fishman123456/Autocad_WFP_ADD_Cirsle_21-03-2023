@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Specialized;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,9 +23,25 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
     /// </summary>
     public partial class WPF_Form : Window
     {
+        public string onestring;
+       
+       
         public WPF_Form()
         {
             InitializeComponent();
         }
+        public string textplus()
+        {
+            onestring = textbox1.Text;
+            return onestring;
+        }
+
+        private void B8_Click(object sender, RoutedEventArgs e)
+        {
+            
+           
+            MessageBox.Show(textplus());
+        }
     }
+    
 }

@@ -7,18 +7,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Controls;
 
 namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 {
     public class Class1
     {
-        [CommandMethod("WF_Form")]
+        public string sLayerName2;
+
+        
+
+       [CommandMethod("WF_Form")]
         public void Demo()
         {
             WPF_Form wp = new WPF_Form();
           wp.Show();
             
         }
+      
 
         // метод создания слоя
         [CommandMethod("SetLayerCurrent")]
@@ -51,7 +57,7 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 
 
 
-                string sLayerName = "Center";
+                string sLayerName = "centr";
 
 
 
