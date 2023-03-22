@@ -19,7 +19,7 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
         //public static void AddCircle()
 
         //{
-          
+
         //    // Get the current document and database
 
         //    Document acDoc = Application.DocumentManager.MdiActiveDocument;
@@ -81,6 +81,10 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
         //    }
 
         //}
+        public void help_1() {
+            WPF_Form WP_1 = new WPF_Form();
+            WP_1.text_diam_plus();
+                }
     }
  
 }
