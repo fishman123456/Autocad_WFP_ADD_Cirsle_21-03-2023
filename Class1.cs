@@ -13,7 +13,7 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 {
     public class Class1
     {
-        public string sLayerName2;
+        
 
         
 
@@ -23,11 +23,12 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
             WPF_Form wp = new WPF_Form();
           wp.Show();
             
+            
         }
       
 
-        // метод создания слоя
-        [CommandMethod("SetLayerCurrent")]
+          // метод создания слоя
+          [CommandMethod("SetLayerCurrent")]
 
         public static void SetLayerCurrent()
 

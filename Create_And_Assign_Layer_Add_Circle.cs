@@ -11,8 +11,12 @@ using System.Threading.Tasks;
 //
 namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 {
+   
     public class Create_And_Assign_Layer_Add_Circle
     {
+       
+
+
         [CommandMethod("Create_And_Assign_A_Layer")]
 
         public static void CreateAndAssignALayer()
@@ -97,8 +101,6 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 
                                                 OpenMode.ForWrite) as BlockTableRecord;
 
-
-
                 // Create a circle object
 
                 Circle acCirc = new Circle();
@@ -111,13 +113,9 @@ namespace Autocad_WFP_ADD_Cirsle_21_03_2023
 
                 acCirc.Layer = sLayerName;
 
-
-
                 acBlkTblRec.AppendEntity(acCirc);
 
                 acTrans.AddNewlyCreatedDBObject(acCirc, true);
-
-
 
                 // Save the changes and dispose of the transaction
 
